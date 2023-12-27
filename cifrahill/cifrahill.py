@@ -2,9 +2,6 @@
 import numpy as np
 import sys
 
-# GUIA PARA EXECUCAO:
-# CIFRAR TEXTO CLARO >> py cifrahill.py -enc arquivoentrada.txt arquivosaida.txt
-# DECIFRAR TEXTO CIFRADO >> py cifrahill.py -dec arquivoentrada.txt arquivosaida.txt
 comando = sys.argv[1]
 arquivoEntrada = sys.argv[2]
 arquivoSaida = sys.argv[3]
