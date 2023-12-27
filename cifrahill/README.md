@@ -13,6 +13,7 @@
     - O terceiro é o nome do arquivo de saída
 
 **3.** Observação sobre o código
+- Estão acompanahndos do código fonte três arquivos de exemplo, que foram obtidos através da execução do próprio código em terminal
 - A chave de encriptação está no próprio código, visto que essa implementação é puramente didática. Basta alterar a variável para alterar o valor da chave
 
 
